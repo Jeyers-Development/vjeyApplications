@@ -1,0 +1,4 @@
+1 = Discord
+2 = paint.net
+3 = Steam
+4 = Firefox
