@@ -2,3 +2,6 @@
 2 = paint.net
 3 = Steam
 4 = Firefox
+5 = blender
+6 = Notepad++ (v8.7.8)
+7 = Python
